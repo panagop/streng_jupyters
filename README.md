@@ -1,3 +1,3 @@
 # streng_jupyters
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://github.com/panagop/streng_jupyters/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/panagop/streng_jupyters/master)
