@@ -1,5 +1,3 @@
 name: streng-jupyters
-channels:
-  - conda-forge
 dependencies:
   - streng
